@@ -1,0 +1,94 @@
+{
+  "header": {
+    "title": "پروفایل شخصیت معاملاتی شما",
+    "disclaimer": "این گزارش برای افزایش آگاهی و بهبود تصمیم‌گیری طراحی شده است و توصیه مستقیم مالی یا سیگنال خرید/فروش محسوب نمی‌شود.",
+    "branding": "Trade Therapist • 2025"
+  },
+  "identity_block": {
+    "title": "مشخصات پروفایل شما",
+    "fields": [
+      "نام کاربر",
+      "تاریخ گزارش",
+      "کد تیپ (D-R-E-G)",
+      "عنوان تیپ نهایی"
+    ],
+    "description": "این بخش هویت معاملاتی فعلی شما را براساس پاسخ‌هایتان نشان می‌دهد."
+  },
+  "scores_block": {
+    "title": "امتیازهای ذهنی و رفتاری شما",
+    "dimensions": [
+      {
+        "name": "پویایی تصمیم‌گیری در شرایط فشار",
+        "score_key": "DecisionMaking.score",
+        "level_key": "DecisionMaking.level"
+      },
+      {
+        "name": "ادراک ریسک و سود",
+        "score_key": "RiskReward.score",
+        "level_key": "RiskReward.level"
+      },
+      {
+        "name": "هماهنگی شناخت و هیجان",
+        "score_key": "CognitiveEmotional.score",
+        "level_key": "CognitiveEmotional.level"
+      },
+      {
+        "name": "ذهنیت رشد و بهبود مستمر",
+        "score_key": "GrowthMindset.score",
+        "level_key": "GrowthMindset.level"
+      }
+    ],
+    "charts": {
+      "radar_chart": {
+        "title": "نمای کلی چهار بُعد ذهنی",
+        "description": "این نمودار عنکبوتی نشان می‌دهد تعادل نسبی بین چهار بُعد اصلی ذهن معاملاتی شما چگونه است.",
+        "data_source": [
+          "DecisionMaking.score",
+          "RiskReward.score",
+          "CognitiveEmotional.score",
+          "GrowthMindset.score"
+        ],
+        "image_placeholder": "radar_chart.png"
+      },
+      "bar_chart": {
+        "title": "مقایسه عددی هر بُعد (۱ تا ۵)",
+        "description": "این نمودار میله‌ای نشان می‌دهد کدام بعد شما قوی‌تر است و کدام بعد نیاز به توجه فوری دارد.",
+        "data_source": [
+          "DecisionMaking.score",
+          "RiskReward.score",
+          "CognitiveEmotional.score",
+          "GrowthMindset.score"
+        ],
+        "image_placeholder": "bar_chart.png"
+      }
+    }
+  },
+  "dimensions_analysis_block": {
+    "title": "تحلیل چهاربعدی شما",
+    "note": "این بخش توضیح می‌دهد هر سطح (پایین، متوسط، بالا) در هر بُعد برای شما چه معنایی دارد و چه چالشی جلوی شماست.",
+    "source_file": "dimensions.json",
+    "fields_per_dimension": [
+      "label",
+      "analysis",
+      "growth_hint"
+    ]
+  },
+  "profile_block": {
+    "title": "تیپ معاملاتی نهایی شما",
+    "note": "این بخش ترکیب منحصربه‌فرد شماست. این تیپ تصویر کلی از نقاط قوت، ریسک‌ها و مسیر رشد شخصی شما می‌دهد.",
+    "fields_from_profile": [
+      "group_title",
+      "profile_title",
+      "overview",
+      "strengths",
+      "weaknesses",
+      "growth_path",
+      "exercise"
+    ]
+  },
+  "footer": {
+    "reminder": "هیچ تیپی «خوب» یا «بد» نیست. هر تیپ مجموعه‌ای از مزیت‌ها و ریسک‌ها دارد. آگاهی یعنی شروع کنترل.",
+    "legal": "تمامی حقوق محفوظ است.",
+    "branding": "Trade Therapist • 2025"
+  }
+}

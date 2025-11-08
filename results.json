@@ -1,0 +1,148 @@
+[
+  {
+    "stage1": {
+      "emotional": {
+        "fa_title": "هیجانی",
+        "score_total": 23,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      },
+      "cognitive": {
+        "fa_title": "شناختی",
+        "score_total": 26,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      },
+      "behavioral": {
+        "fa_title": "رفتاری",
+        "score_total": 22,
+        "level_label": "Medium",
+        "level_meaning": "تعادل نسبی",
+        "focus": ""
+      },
+      "self_awareness": {
+        "fa_title": "خودشناسی",
+        "score_total": 26,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      },
+      "performance": {
+        "fa_title": "عملکردی",
+        "score_total": 18,
+        "level_label": "Medium",
+        "level_meaning": "تعادل نسبی",
+        "focus": ""
+      }
+    },
+    "stage2": {
+      "decision_making": {
+        "fa_title": "تصمیم‌گیری در فشار",
+        "avg_score": 3.11,
+        "level_label": "Medium",
+        "level_meaning": "پایه قابل قبول، اما ناپایداری در شرایط فشار واقعی",
+        "focus": "توان تصمیم‌گیری سریع و منطقی زیر استرس، حفظ تسلط در شرایط بحرانی"
+      },
+      "risk_reward": {
+        "fa_title": "ادراک ریسک و پاداش",
+        "avg_score": 3.62,
+        "level_label": "High",
+        "level_meaning": "استاندارد نزدیک به تریدر حرفه‌ای در این بُعد",
+        "focus": "درک ریسک، کنترل طمع و ترس، تعادل بین جسارت و محافظه‌کاری"
+      },
+      "cog_emotional": {
+        "fa_title": "هم‌آهنگی شناخت و هیجان",
+        "avg_score": 2.71,
+        "level_label": "Medium",
+        "level_meaning": "پایه قابل قبول، اما ناپایداری در شرایط فشار واقعی",
+        "focus": "توان تشخیص هیجان در لحظه، مدیریت درگیری ذهن-احساس"
+      },
+      "growth_mindset": {
+        "fa_title": "رشد و بهینه‌سازی فردی",
+        "avg_score": 4.0,
+        "level_label": "High",
+        "level_meaning": "استاندارد نزدیک به تریدر حرفه‌ای در این بُعد",
+        "focus": "میل به پیشرفت، یادگیری از اشتباه، انضباط در بهبود مداوم"
+      }
+    },
+    "profile_key": "Medium-High-Medium-High",
+    "telegram_id": 5961397048,
+    "timestamp": "2025-10-31T19:07:32.881646",
+    "completed": true
+  },
+  {
+    "stage1": {
+      "emotional": {
+        "fa_title": "هیجانی",
+        "score_total": 27,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      },
+      "cognitive": {
+        "fa_title": "شناختی",
+        "score_total": 32,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      },
+      "behavioral": {
+        "fa_title": "رفتاری",
+        "score_total": 29,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      },
+      "self_awareness": {
+        "fa_title": "خودشناسی",
+        "score_total": 29,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      },
+      "performance": {
+        "fa_title": "عملکردی",
+        "score_total": 25,
+        "level_label": "High",
+        "level_meaning": "تسلط بالا",
+        "focus": ""
+      }
+    },
+    "stage2": {
+      "decision_making": {
+        "fa_title": "تصمیم‌گیری در فشار",
+        "avg_score": 4.33,
+        "level_label": "High",
+        "level_meaning": "استاندارد نزدیک به تریدر حرفه‌ای در این بُعد",
+        "focus": "توان تصمیم‌گیری سریع و منطقی زیر استرس، حفظ تسلط در شرایط بحرانی"
+      },
+      "risk_reward": {
+        "fa_title": "ادراک ریسک و پاداش",
+        "avg_score": 4.62,
+        "level_label": "High",
+        "level_meaning": "استاندارد نزدیک به تریدر حرفه‌ای در این بُعد",
+        "focus": "درک ریسک، کنترل طمع و ترس، تعادل بین جسارت و محافظه‌کاری"
+      },
+      "cog_emotional": {
+        "fa_title": "هم‌آهنگی شناخت و هیجان",
+        "avg_score": 4.43,
+        "level_label": "High",
+        "level_meaning": "استاندارد نزدیک به تریدر حرفه‌ای در این بُعد",
+        "focus": "توان تشخیص هیجان در لحظه، مدیریت درگیری ذهن-احساس"
+      },
+      "growth_mindset": {
+        "fa_title": "رشد و بهینه‌سازی فردی",
+        "avg_score": 4.5,
+        "level_label": "High",
+        "level_meaning": "استاندارد نزدیک به تریدر حرفه‌ای در این بُعد",
+        "focus": "میل به پیشرفت، یادگیری از اشتباه، انضباط در بهبود مداوم"
+      }
+    },
+    "profile_key": "High-High-High-High",
+    "telegram_id": 5457994070,
+    "timestamp": "2025-11-01T11:41:06.353208",
+    "completed": true
+  }
+]
